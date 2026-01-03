@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi there! I'm Akshay
 
-<!--
-**akshay200613/akshay200613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Machine Learning Engineer** and **Data Science enthusiast** based in India. I specialize in building intelligent systems, solving complex problems with data, and continuously learning about AI/ML technologies.
+
+- 🔬 **Expertise**: Machine Learning, Data Science, Python Programming
+- 💻 **Tech Stack**: Python, scikit-learn, pandas, matplotlib, seaborn, Jupyter
+- 📚 **Focus Areas**: 
+  - ML Model Development & Evaluation
+  - Data Preprocessing & Feature Engineering
+  - Exploratory Data Analysis
+  - Algorithm Optimization
+- 🎯 **Career Goal**: Becoming a proficient ML/AI professional
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools:**
+- Python, C, HTML, CSS, JavaScript
+- scikit-learn, pandas, matplotlib, seaborn
+- Jupyter Notebook, VS Code, Git/GitHub
+
+---
+
+## 📂 Key Projects
+
+- **Daily-DSA** - Daily Data Structures & Algorithms practice
+- **Portfolio** - Personal portfolio website
+- **todo-project** - Task management application
+- **RGXP-** - Regular expression utilities
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay200613&show_icons=true&theme=dark)
+
+---
+
+## 🎓 Currently Learning
+
+- Advanced ML Algorithms & Deep Learning
+- Natural Language Processing (NLP)
+- AI Chatbot Development
+- Data Visualization & Interpretability
+
+---
+
+## 📫 Connect With Me
+
+- **Email**: akshayyy201@gmail.com
+- **LinkedIn**: [akshay-c-53bb09368](https://www.linkedin.com/in/akshay-c-53bb09368/)
+- **GitHub**: [@akshay200613](https://github.com/akshay200613)
+
+---
+
+💡 I love learning, coding, and sharing knowledge. Feel free to explore my repositories!
