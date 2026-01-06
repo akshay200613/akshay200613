@@ -51,8 +51,8 @@
 ## 📂 Featured Repositories
 
 - 🧠 [Daily-DSA](https://github.com/akshay200613/Daily-DSA) – Daily practice repo for Data Structures & Algorithms in C / Java / Python.
-- 🤖 (Add ML project 1 link here) – EDA, preprocessing, model training & evaluation.
-- 🌐 (Add Django project link here) – Web app using Django and Python.
+- 🤖  EDA, preprocessing, model training & evaluation.
+- 🌐  Web app using Django and Python.
 
 ---
 
