@@ -97,8 +97,4 @@
   <i>Feel free to reach out! Let's build something amazing together. 🚀</i>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akshay200613/akshay200613/output/github-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
 ---
