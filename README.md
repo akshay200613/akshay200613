@@ -1,9 +1,7 @@
 <!-- PROFILE README FOR akshay200613 -->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Akshay+👋;Aspiring+ML+Engineer+%7C+DSA+Enthusiast;Python+%7C+Django+%7C+Data+Science)](https://git.io/typing-svg)
 
 <h3 align="center">Turning data + code into solutions 🚀</h3>
-
 <p align="center">
   📍 India &nbsp;•&nbsp;
   💻 Open to internships / junior roles in Data Science / ML / Backend
@@ -51,19 +49,20 @@
 ## 📂 Featured Repositories
 
 - 🧠 [Daily-DSA](https://github.com/akshay200613/Daily-DSA) – Daily practice repo for Data Structures & Algorithms in C / Java / Python.
-- 🤖  EDA, preprocessing, model training & evaluation.
-- 🌐  Web app using Django and Python.
+- 🤖 EDA, preprocessing, model training & evaluation.
+- 🌐 Web app using Django and Python.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay200613&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay200613&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
+<!-- ✅ FIXED: herokuapp is dead — using git.io/streak-stats instead -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay200613&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=akshay200613&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -73,6 +72,17 @@
 ---
 
 ## 🐍 Contribution Snake
+
+<!-- ✅ NOTE: Snake only works after you set up the GitHub Action below -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshay200613/akshay200613/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>Feel free to reach out! Let's build something amazing together. 🚀</i>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshay200613/akshay200613/output/github-snake.svg" alt="GitHub Snake Animation" />
